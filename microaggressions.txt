@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>welcome page</title>
+  <link href="https://fonts.googleapis.com/css?family=Assistant:300%7CPlayfair+Display" rel="stylesheet">
+</head>
+<body>
+
+<center><img id="logo" src="https://i.imgur.com/2bSYN5d.png" alt="logo">
+  <br/>
+  <br/>
+  <br/>
+  
+  <center><img src="https://i.imgur.com/9Kf2ifl.png" alt="?">
+  <br/>
+    <br/><br/>
+    <br/>
+  <table>
+  <tr>
+    <th><center><img id="button" src="https://i.imgur.com/J53cnT2.png" alt="response"></th>
+    <th><center><p> &nbsp &nbsp &nbsp &nbsp </p></th>
+    <th><center><img id="button" src="https://i.imgur.com/Dr9rSjs.png" alt="ally"></th>
+      <th><center><p> &nbsp &nbsp &nbsp &nbsp </p></th>
+    <th><center><img id="button" src="https://i.imgur.com/50kJf6I.png" alt="ask"></th>
+  </tr>
+    <tr>
+      <th><center><p>how to respond <br> to microaggressions</p></th>
+    <th><center><p> &nbsp &nbsp &nbsp &nbsp </p></th>
+    <th><center><p>how to be a helper and <br>  upstander</p></th>
+      <th><center><p> &nbsp &nbsp &nbsp &nbsp </p></th>
+    <th><center><p>the better way to approach<br> and ask </p></th>
+    </tr>
+ 
+</table>
+
+</body>
+</html>
+
+
+
+body {
+  background-color: #afd9ea;
+}
+
+#logo {
+  height: 125px;
+  margin-top: ;
+}
+
+#button {
+  height: 200px;
+}
+
+p {
+  font-family: Assistant;
+  color: white;
+}
+
